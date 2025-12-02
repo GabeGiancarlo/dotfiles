@@ -1,0 +1,5 @@
+.DS_Store
+.env
+wezterm/*.jpg
+wezterm/*.png
+work.zsh
